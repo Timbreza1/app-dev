@@ -13,3 +13,9 @@ My first repository
 `Awesome fight scene just really good...like REALLY good`
 ---
 That is why I suggest watching Pacific Rim the first movie its great
+
+[Pacific Rim](https://www.youtube.com/watch?v=5guMumPFBag)
+here is a trailer really cool ngl
+
+Here is Gipsy:
+![gipsy danger](https://user-images.githubusercontent.com/102206478/213878232-9076acdf-7aaa-4043-9759-d5a0c4c0e70a.jpg)
